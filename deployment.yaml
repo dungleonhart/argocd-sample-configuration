@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: main-app
-        image: dungleonhart/sample-flask-app:1.0
+        image: dungleonhart/sample-flask-app:ad82ec6b71c031992c7af71b065d944efdc07b3a
         ports:
         - containerPort: 5000
 ---
